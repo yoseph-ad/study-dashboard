@@ -121,7 +121,7 @@ Mobile application version
 📂 Installation
 
 # Clone the repository
-https://github.com/yourusername/study-dashboard
+https://github.com/yoseph-ad/study-dashboard
 
 # Open project folder
 cd study-dashboard
